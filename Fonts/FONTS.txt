@@ -1,0 +1,6 @@
+Fonts used by the game (both are free to use under the SIL Open Font License):
+  title.otf  = Dystopian Canticle (HUD, titles and big messages). License: license_Dystopian-Canticle.txt
+  body.ttf   = Poppins Medium     (hint paragraphs and small text)
+
+To change the look, replace title.otf and/or body.ttf with any other font file named title / body
+(.ttf, .otf, .woff or .woff2). If a character is missing in the title font, the game falls back to the body font.
